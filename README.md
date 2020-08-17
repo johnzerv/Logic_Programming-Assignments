@@ -11,6 +11,9 @@ Programs written in prolog for Logic Programming course at NKUA (DI)
 
 * __vertexcover.pl__
 
-   A program for solving the vertex cover problem (using the graph.pl that creates a graph).
+   A program for solving the vertex cover problem (using the graph.pl file that creates a graph).
    
+* __stable.pl__
+
+   A program for solving the stable marriage problem (using the data.pl file which is the data stable.p uses).
    
