@@ -9,3 +9,8 @@ Programs written in prolog for Logic Programming course at NKUA (DI)
 
    A program for solving the jobshop problem using pure prolog.
 
+* __vertexcover.pl__
+
+   A program for solving the vertex cover problem (using the graph.pl that creates a graph).
+   
+   
