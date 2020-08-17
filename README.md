@@ -17,3 +17,7 @@ Programs written in prolog for Logic Programming course at NKUA (DI)
 
    A program for solving the stable marriage problem (using the data.pl file which is the data stable.p uses).
    
+* __jobshop_opt.pl__
+
+   A program for solving the jobshop problem using constraints. 
+   
