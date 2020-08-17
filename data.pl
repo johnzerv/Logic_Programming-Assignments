@@ -1,24 +1,24 @@
-men([rick,jack,john,hugh,greg,nick,bill,andy,alan,dick]).
+job(j1, [t11,t12,t13,t14]).
+job(j2, [t21,t22,t23,t24]).
+job(j3, [t31,t32,t33]).
+job(j4, [t41,t42,t43]).
+job(j5, [t51]).
 
-women([helen,tracy,linda,sally,wanda,maria,diana,patty,jenny,lilly]).
+task(t11, m1, 3, 3).
+task(t12, m2, 2, 3).
+task(t13, m1, 2, 3).
+task(t14, m2, 3, 1).
+task(t21, m1, 2, 2).
+task(t22, m2, 3, 2).
+task(t23, m1, 3, 1).
+task(t24, m1, 4, 2).
+task(t31, m1, 3, 1).
+task(t32, m2, 1, 3).
+task(t33, m2, 4, 3).
+task(t41, m1, 1, 1).
+task(t42, m1, 3, 2).
+task(t43, m1, 2, 3).
+task(t51, m2, 3, 2).
 
-prefers(rick,[tracy,linda,jenny,maria,wanda,sally,diana,patty,helen,lilly]).
-prefers(jack,[tracy,lilly,patty,sally,diana,linda,jenny,helen,maria,wanda]).
-prefers(john,[diana,jenny,wanda,linda,patty,tracy,sally,helen,lilly,maria]).
-prefers(hugh,[helen,wanda,diana,maria,sally,patty,linda,lilly,jenny,tracy]).
-prefers(greg,[jenny,maria,lilly,patty,sally,linda,tracy,diana,helen,wanda]).
-prefers(nick,[sally,linda,diana,maria,jenny,lilly,wanda,helen,patty,tracy]).
-prefers(bill,[linda,tracy,diana,patty,lilly,sally,jenny,helen,wanda,maria]).
-prefers(andy,[helen,jenny,lilly,maria,sally,patty,wanda,tracy,diana,linda]).
-prefers(alan,[patty,sally,maria,jenny,linda,diana,helen,lilly,tracy,wanda]).
-prefers(dick,[sally,wanda,helen,maria,lilly,diana,jenny,tracy,patty,linda]).
-prefers(helen,[alan,rick,nick,bill,jack,hugh,dick,john,andy,greg]).
-prefers(tracy,[andy,john,alan,hugh,bill,rick,greg,dick,jack,nick]).
-prefers(linda,[dick,hugh,john,nick,andy,greg,alan,jack,bill,rick]).
-prefers(sally,[nick,dick,bill,rick,greg,andy,jack,hugh,alan,john]).
-prefers(wanda,[greg,bill,dick,jack,john,nick,alan,andy,rick,hugh]).
-prefers(maria,[john,alan,nick,rick,greg,hugh,jack,bill,andy,dick]).
-prefers(diana,[greg,hugh,andy,nick,john,bill,alan,dick,jack,rick]).
-prefers(patty,[alan,bill,jack,hugh,greg,dick,rick,nick,andy,john]).
-prefers(jenny,[greg,dick,jack,bill,alan,john,andy,hugh,rick,nick]).
-prefers(lilly,[hugh,jack,dick,nick,andy,alan,greg,rick,bill,john]).
+machine(m1, 2).
+machine(m2, 2).
