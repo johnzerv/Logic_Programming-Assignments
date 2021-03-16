@@ -1,5 +1,5 @@
 # Prolog--Logic-Programing
-Programs written in prolog for Logic Programming course at NKUA (DI)
+Programs written in prolog that solve some Constrain Satisfaction Problems for Logic Programming course (2020) at NKUA (DI).
 
 * __listoflists.pl__
 
@@ -19,5 +19,4 @@ Programs written in prolog for Logic Programming course at NKUA (DI)
    
 * __jobshop_opt.pl__
 
-   A program for solving the jobshop problem using constraints. 
-   
+   A program for solving the jobshop problem using constraints.
