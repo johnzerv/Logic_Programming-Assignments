@@ -1,6 +1,6 @@
 % File : listoflists.pl
 % Author : Yiannis Zervakis
-% 1st exercise for Logic Programming course
+% 1st assignment for Logic Programming course
 % There are 4 section, seperated with a line like this :
 %------------------------------------------------------------%
 
